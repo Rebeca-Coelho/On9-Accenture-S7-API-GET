@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Ada Lovelace",
+      "description": "Responsável pelo primeiro algoritmo criado na história, em 1843. Hoje, ela dá nome a um prêmio da
+       Sociedade Britânica de Computação que contempla avanços significativos em sistemas de informação.",
+       "read more": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+    },
+     
+    {
+      "id": 2,
+      "name": "As garotas do ENIAC",
+      "description": "Foi um grupo de seis mulheres que foram as primeiras “computors” da história da informática,
+       na Escola de Engenharia Moore, no estado americano da Pennsylvania: Betty Snyder, Marlyn Wescoff, Fran Bilas,
+        Kay McNulty, Ruth Lichterman e Adele Goldstine.",
+        "read more": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+    },
+
+    {
+        "id": 3,
+        "name": "Mary Kenneth Keller",
+        "description":"Considerada a primeira mulher a receber um doutorado em ciências da computação, Keller se formou
+         na Universidade Washington, na cidade de St. Louis, nos Estados Unidos. Escreveu quatro livros sobre computação
+          e programação, e as obras são, até hoje, uma referência. ",
+          "read more": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      },
+
+      {
+        "id": 4,
+        "name": "Jean Sammet",
+        "description": "Foi a criadora de uma das primeiras linguagens computadorizadas existentes. O FORMAC, que entrou
+         em uso no final dos anos 1960 pelas mãos da IBM, era utilizado para manipular fórmulas matemáticas e auxiliar em
+          cálculos complexos.",
+          "read more": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      },
+
+      {
+        "id": 5,
+        "name": "Grace Hopper",
+        "description": "Ela foi a primeira mulher a se formar na prestigiosa Universidade de Yale, nos Estados Unidos, com
+         um PhD em matemática, além de ter sido a primeira almirante da marinha dos EUA. No campo da tecnologia, ela foi uma
+         das criadoras do COBOL, uma linguagem de programação para bancos de dados comerciais.",
+         "read more": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      },
+
+      {
+        "id": 6,
+        "name": "Karen Sparck Jones",
+        "description": "Ela realizou um trabalho focado em processamento de linguagem. Ela foi uma das criadoras do conceito de
+         “inverso da frequência em documentos”, a base do que hoje são os sistemas de busca e localização de conteúdo e pedra
+          fundamental de companhias como o Google, por exemplo.",
+          "read more": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      },
+
+      {
+        "id": 7,
+        "name": "Carol Shaw",
+        "description": "Citada como a primeira mulher a trabalhar na indústria dos games, Carol Shaw foi uma das funcionárias
+         originais da Atari. Apesar disso, ela passou pouco tempo na empresa, sendo contratada rapidamente pela Activision e
+          participando do desenvolvimento de um dos maiores clássicos dos games, River Raid.",
+          "read more": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      },
+
+      {
+        "id": 8,
+        "name": "Roberta Williams",
+        "description": "Ela, ao lado de seu marido, Ken, foi a fundadora da On-Line Systems, que mais tarde, se tornaria a
+         Sierra, um dos maiores nomes da indústria de jogos eletrônicos, tendo participado do desenvolvimento e/ou
+         distribuição de grandes nomes como King’s Quest, Phantasmagoria, Half-Life e Counter-Strike.",
+         "read more": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      },
+
+      {
+        "id": 9,
+        "name": "Radia Perlman",
+        "description": "Pode ser considerada como a mãe. Designer de software e engenheira de redes, ela foi a responsável 
+        pela criação do protocolo STP (Spanning Tree Protocol), que melhorou a performance de sistemas conectados ao evitar
+         a realização de loops de dados, garantindo que as informações trafeguem mesmo em caso de problemas, sem ficarem 
+         perdidas tentando firmar uma conexão inexistente.",
+         "read more": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      },
+
+      {
+        "id": 10,
+        "name": "Frances Allen",
+        "description": "A primeira mulher a ganhar o prestigiado Turing Award, Allen trabalhou durante 45 anos na IBM, onde
+         esteve no centro de muitos dos avanços da computação e, principalmente, na chegada dessas máquinas às casas das
+         pessoas comuns.",
+         "read more": "https://www.programaria.org/mulheres-que-fizeram-historia-na-tecnologia/"
+      }
+
+  ]
